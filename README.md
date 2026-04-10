@@ -5,6 +5,7 @@
 [![English](https://img.shields.io/badge/Language-English-blue)](#english)
 
 
+
 ## 中文
 这里是中文说明内容。
 
@@ -13,13 +14,15 @@
 - 功能2
 
 ### 安装
-```bash
+
 git clone ...
 
-## english
-Here is the English description.
-Features
-Feature 1
-Feature 2
 
+## english
+
+Here is the English description.
+
+### Features
+#### Feature 1
+#### Feature 2
 
