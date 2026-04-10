@@ -65,3 +65,23 @@ Install the GitHub Chinese Localization Script
 Search for github-chinese on GitHub and select the project maboloshi/github-chinese.
 Follow the instructions in the README to install the localization script (e.g., github-chinese.user.js).
 Once installed, refresh the GitHub page, and the interface will automatically switch to Chinese.
+
+
+# 项目名称 / Project Name
+
+<p align="center">
+  <a href="#中文">中文</a> |
+  <a href="#english">English</a>
+</p>
+
+---
+
+<a id="中文"></a>
+## 中文
+这里是中文文档内容...
+
+---
+
+<a id="english"></a>
+## English
+Here is the English documentation...
